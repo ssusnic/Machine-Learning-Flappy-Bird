@@ -7,7 +7,7 @@ The complete tutorial with much more details and demo you can find here:
 
 All code is written in HTML5 using [Phaser framework](http://phaser.io/) and [Synaptic Neural Network library](https://synaptic.juancazala.com) for neural network implementation.
 
-![Flappy Bird Screenshot](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/640x360/flappy_screen_01.png "Flappy Bird Screenshot")
+![Flappy Bird Screenshot](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/screenshots/flappy_10.png "Flappy Bird Screenshot")
 
 ## Neural Network Architecture
 
@@ -26,7 +26,7 @@ To play the game, each unit (bird) has its own neural network consisted of the n
     if output > 0.5 then flap else do nothing
      ```
      
-![Flappy Bird Neural Network](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/640x360/flappy_06e.png "Flappy Bird Neural Network")
+![Flappy Bird Neural Network](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/screenshots/flappy_06.png "Flappy Bird Neural Network")
 
 
 There is used [Synaptic Neural Network library](https://synaptic.juancazala.com) to implement entire artificial neural network instead of making a new one from the scratch.
@@ -43,7 +43,7 @@ The main concept of machine learning implemented in this program is based on the
     fitness = total travelled distance - distance to the closest gap
     ```
  
-    ![Flappy Bird Fitness](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/640x360/flappy_08c.png "Flappy Bird Fitness")
+    ![Flappy Bird Fitness](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/screenshots/flappy_08.png "Flappy Bird Fitness")
 
     
 4. when all units are killed, evaluate the current population to the next one using **genetic algorithm operators** (selection, crossover and mutation) as follows:

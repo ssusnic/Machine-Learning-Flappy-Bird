@@ -5,6 +5,9 @@ Here is the source code for a HTML5 project that implements a machine learning a
 The complete tutorial with much more details and demo you can find here:
 [http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird](http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird)
 
+Here you can also watch a short video with a simple presentation of the algorithm:
+[https://www.youtube.com/watch?v=aeWmdojEJf0&t=6s](https://www.youtube.com/watch?v=aeWmdojEJf0&t=6s)
+
 All code is written in HTML5 using [Phaser framework](http://phaser.io/) and [Synaptic Neural Network library](https://synaptic.juancazala.com) for neural network implementation.
 
 ![Flappy Bird Screenshot](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/screenshots/flappy_10.png "Flappy Bird Screenshot")

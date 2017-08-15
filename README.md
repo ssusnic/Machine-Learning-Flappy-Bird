@@ -6,7 +6,7 @@ The complete tutorial with much more details and demo you can find here:
 [http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird](http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird)
 
 Here you can also watch a short video with a simple presentation of the algorithm:  
-[https://www.youtube.com/watch?v=aeWmdojEJf0&t=6s](https://www.youtube.com/watch?v=aeWmdojEJf0&t=6s)
+[https://www.youtube.com/watch?v=aeWmdojEJf0](https://www.youtube.com/watch?v=aeWmdojEJf0)
 
 All code is written in HTML5 using [Phaser framework](http://phaser.io/) and [Synaptic Neural Network library](https://synaptic.juancazala.com) for neural network implementation.
 

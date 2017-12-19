@@ -32,7 +32,7 @@ To play the game, each unit (bird) has its own neural network consisted of the n
 ![Flappy Bird Neural Network](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Flappy-Bird/master/screenshots/flappy_06.png "Flappy Bird Neural Network")
 
 
-There is used [Synaptic Neural Network library](https://synaptic.juancazala.com) to implement entire artificial neural network instead of making a new one from the scratch.
+There is used [Synaptic Neural Network library](http://caza.la/synaptic/#/) to implement entire artificial neural network instead of making a new one from the scratch.
 
 ## The Main Concept of Machine Learning
 
@@ -68,7 +68,7 @@ The main concept of machine learning implemented in this program is based on the
 
 ### Requirements
 
-Since the program is written in HTML5 using [Phaser framework](http://phaser.io/) and [Synaptic Neural Network library](https://synaptic.juancazala.com) you need these files:
+Since the program is written in HTML5 using [Phaser framework](http://phaser.io/) and [Synaptic Neural Network library](http://caza.la/synaptic/#/) you need these files:
 
 - **phaser.min.js**
 - **synaptic.min.js**
